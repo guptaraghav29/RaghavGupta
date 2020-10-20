@@ -1,0 +1,47 @@
+body {
+    font-family: monospace;
+    /* background: url(https://images.hdqwalls.com/wallpapers/thumb/ios-13-red-white-5k-po.jpg);
+    background-repeat: no-repeat; 
+    background-size: cover;*/
+    background-color: antiquewhite;
+    margin-top: 05px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+h1 {
+    color: chocolate;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 100px;
+    margin-bottom: 0px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+ol {
+    text-align: left;
+    list-style-position: inside;
+    /* display: inline; */
+    margin-bottom: 5px;
+}
+
+a {
+    color: blueviolet;
+}
+
+h3 {
+    margin-bottom: 0px;
+}
+
+#contact {
+    text-align: center;
+    color: brown;
+}
+
+#displayphoto {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+}
