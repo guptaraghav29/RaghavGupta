@@ -10,10 +10,11 @@ export default function Home() {
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
 
-			<main>
+			<main className={styles.main}>
 				<h1 className={styles.title} style={{color: "blue"}}>
 					Welcome to Raghav's Website!
 				</h1>
+				<img src="RaghavCatalina.jpeg" height={"400px"} width={"700px"}></img>
 
 				<p> Hi, I'm Raghav and I am currently a second year Computer Science with Business Applications student at the University of California, Riverside. I love programming, playing soccer, playing video games (FIFA mostly), and eating delicious food! </p>
 				<p> I'm an aspiring software engineer with a passion in computer science, particularly in fields such as machine learning and data science. </p>
