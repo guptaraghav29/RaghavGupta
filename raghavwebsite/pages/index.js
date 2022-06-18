@@ -15,7 +15,7 @@ export default function Home() {
 
 			<div className={styles.container}>
 
-				<h1 className={styles.title} style={{ color: "blue" }}>
+				<h1 className={styles.title} style={{ color: "darkblue" }}>
 					Welcome to Raghav's Website!
 				</h1>
 
@@ -27,7 +27,7 @@ export default function Home() {
 
 				<br></br>
 
-				<p> Hi, I'm Raghav and I am currently a second year Computer Science with Business Applications student at the University of California, Riverside. I love programming, playing soccer, playing video games (FIFA mostly), and eating delicious food! </p>
+				<p> Hi! I'm Raghav and I am currently a second year Computer Science with Business Applications student at the University of California, Riverside. I love programming, playing soccer, playing video games (FIFA mostly), and eating delicious food! </p>
 				<p> I'm an aspiring software engineer with a passion in computer science, particularly in fields such as machine learning and data science. </p>
 
 
