@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "nextjs-linkedin-insight-tag": "^0.0.5",
+    "react-helmet": "^6.1.0"
+  }
+}
